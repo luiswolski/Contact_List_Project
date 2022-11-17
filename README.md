@@ -4,42 +4,42 @@
 ______________________________________________________________________________________
 
 
-Imagem 1:
+## Home Contact List
 
 ![home](https://github.com/luiswolski/Contact_List_Project/blob/main/app_prints/home.png)
 
 ______________________________________________________________________________________
 
 
-Imagem 2:
+## Register
 
 ![register](https://github.com/luiswolski/Contact_List_Project/blob/main/app_prints/registe_page.png)
 
 ______________________________________________________________________________________
 
 
-Imagem 3:
+## Login
 
 ![login](https://github.com/luiswolski/Contact_List_Project/blob/main/app_prints/login.png)
 
 ______________________________________________________________________________________
 
 
-Imagem 4:
+## Dashboard
 
 ![dashboard](https://github.com/luiswolski/Contact_List_Project/blob/main/app_prints/dashboard.png)
 
 ______________________________________________________________________________________
 
 
-Imagem 5:
+## Profile
 
 ![profile](https://github.com/luiswolski/Contact_List_Project/blob/main/app_prints/perfil.png)
 
 ______________________________________________________________________________________
 
 
-Imagem 6:
+## Administrative Area
 
 ![adm](https://github.com/luiswolski/Contact_List_Project/blob/main/app_prints/admin_area.png)
 
