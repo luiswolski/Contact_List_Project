@@ -31,7 +31,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 
 
-## Profile
+## Contact Info
 
 ![profile](https://github.com/luiswolski/Contact_List_Project/blob/main/app_prints/perfil.png)
 
