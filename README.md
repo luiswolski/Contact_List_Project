@@ -1,6 +1,5 @@
 # Contact_List_Project
-# test
-## test2
+## Python with Django framework
 ______________________________________________________________________________________
 
 
