@@ -1,8 +1,10 @@
 # Contact_List_Project
 ## Python with Django Framework
 ______________________________________________________________________________________
+______________________________________________________________________________________
 
-How to put this application online:
+* How to put this application online: https://github.com/luiswolski/Make_Your_Django_Deploy
+* How use Git: https://github.com/luiswolski/Using_git_on_the_server
 
 
 ______________________________________________________________________________________
